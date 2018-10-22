@@ -276,3 +276,15 @@ a:hover, a:focus {
 .souncloudBox{
     margin-top: 5%;
 }
+h2{
+    text-align: center;
+    color: #fff;
+}
+p{
+    text-align: justify;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+.bio{
+    background-color: darkgrey;
+}
