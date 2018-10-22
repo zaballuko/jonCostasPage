@@ -260,4 +260,9 @@ a:hover, a:focus {
 .container{
     clear: both;
 }
-
+.box{
+    margin-bottom: 3%;
+}
+.souncloudBox{
+    margin-top: 5%;
+}
