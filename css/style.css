@@ -263,6 +263,16 @@ a:hover, a:focus {
 .box{
     margin-bottom: 3%;
 }
+.boxImg{
+    border-radius: 10%;
+}
+.boxImg:hover{
+    transform: scale(1.2);
+    z-index: 1;
+    border-radius: 10px;
+    box-shadow: -5px 10px 84px 25px;
+    color: #000;
+}
 .souncloudBox{
     margin-top: 5%;
 }
