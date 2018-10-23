@@ -43,8 +43,8 @@ $(document).ready(function() {
       } else {
         $.ajax({
           method: 'POST',
-          url: '//formspree.io/jon',
-          data: $('#contact-form').serialize(),
+          url: '//formspree.io/zaballuko@gmail.com',
+          data: $(this).serialize(),
           datatype: 'json'
         });
         e.preventDefault();
