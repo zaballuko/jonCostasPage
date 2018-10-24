@@ -278,23 +278,34 @@ a:hover, a:focus {
     margin-top: 5%;
 }
 h2{
-    margin-top: 5%;
+    
     text-align: center;
     color: #fff;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: myFont;
 }
 p{
     text-align: justify;
     color: #fff;
-    font-family: 'Courier New', Courier, monospace;
-    text-shadow: 4px 0px 6px rgba(147, 147, 147, 1);
+    font-family: myFont;   
+    
 }
 .bio{
+    margin-top: 3%;
     float: left;
+    background-color: #46454579;
+    border-radius: 0.7%;
+    margin-left: 2%;
+    margin-bottom: 40px;
 }
 label{
     color: #fff;
 }
 #email-submit-btn{
     margin-top: 5%;
+}
+.contact-input{
+    text-transform: lowercase;
+}
+.form-group{
+    font-family: "Gill Sans", sans-serif;
 }
