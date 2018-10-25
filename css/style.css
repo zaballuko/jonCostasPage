@@ -40,7 +40,7 @@ nav {
     font-size: 50px;
     letter-spacing: 17px;
     text-decoration: none;
-}
+    text-shadow: 1px 1px 4px rgba(150, 150, 150, 1);}
 
 nav ul {
     float: right;
