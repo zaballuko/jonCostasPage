@@ -4,7 +4,7 @@ $(document).ready(function(){
         $(this).css("opacity", "1");
     });
     $(".aicons").mouseout(function(){
-        $(".aicons").css("opacity", "1");
+        $(".aicons").css("opacity", "0,5");
     });
     
 });

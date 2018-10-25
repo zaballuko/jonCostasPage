@@ -226,6 +226,7 @@ a:hover, a:focus {
     color: #d39900;
 }
 .aicons{
+    opacity: 0.5;
     margin-left: -3%;
 }
 
